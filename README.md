@@ -14,7 +14,6 @@ To analyze how sales (revenue and order volume) trend over time — specifically
 ##  Tools Used
 
 - SQL (PostgreSQL / MySQL / SQLite)
-- Excel / Google Sheets (for result visualization)
 - CSV Dataset (`Online Sales Data.csv`)
 
 ---
